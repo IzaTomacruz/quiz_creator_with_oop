@@ -1,107 +1,22 @@
 [
     {
-        "question": "skjdfslkjd",
+        "question": "Will this write a question",
         "choices": {
-            "A": "fskdhfslkjd",
-            "B": "dsfsdkfhsd",
-            "C": "sdfsdf",
-            "D": "sdsdf"
+            "A": "yes",
+            "B": "no",
+            "C": "maybe",
+            "D": "not sure"
         },
         "answer": "A"
     },
     {
-        "question": ";lfkds;ldkf;slkd",
+        "question": "for second question. Is this in json?",
         "choices": {
-            "A": "sdfsdlfs;ldkf",
-            "B": "sdkfhsldhf",
-            "C": "skdhgoishg",
-            "D": "fsdfjh"
+            "A": "no",
+            "B": "maybe",
+            "C": "error",
+            "D": "yes"
         },
-        "answer": "C"
-    }
-][
-    {
-        "question": "dsadas",
-        "choices": {
-            "A": "sdfsd",
-            "B": "fsd",
-            "C": "fsd",
-            "D": "fsd"
-        },
-        "answer": "A"
-    }
-][
-    {
-        "question": "jdalkjdlkasj\\",
-        "choices": {
-            "A": "asjdhakjhd",
-            "B": "sadasda",
-            "C": "asdas",
-            "D": "das"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "asdada",
-        "choices": {
-            "A": "asda",
-            "B": "asdasd",
-            "C": "aasd",
-            "D": "fsdfsd"
-        },
-        "answer": "A"
-    }
-][
-    {
-        "question": "sdfjslkjfs",
-        "choices": {
-            "A": "sdfsdfhsdfs",
-            "B": "dfsdf",
-            "C": "sdfs",
-            "D": "dsdf"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "sfsdkljfslkdf",
-        "choices": {
-            "A": "sdfsdfsd",
-            "B": "fsdfsdfsd",
-            "C": "dsfs",
-            "D": "sdf"
-        },
-        "answer": "A"
-    }
-][
-    {
-        "question": "fsdfsdf",
-        "choices": {
-            "A": "sdf",
-            "B": "s",
-            "C": "sdf",
-            "D": ""
-        },
-        "answer": "A"
-    },
-    {
-        "question": "fsdfsdf",
-        "choices": {
-            "A": "sdfsd",
-            "B": "fs",
-            "C": "sdf",
-            "D": "sdsf"
-        },
-        "answer": "A"
-    }
-][
-    {
-        "question": "jsdflkjssdfs",
-        "choices": {
-            "A": "fskdhflks",
-            "B": "dsfsdfs",
-            "C": "dfsdf",
-            "D": "sfs"
-        },
-        "answer": "A"
+        "answer": "D"
     }
 ]
