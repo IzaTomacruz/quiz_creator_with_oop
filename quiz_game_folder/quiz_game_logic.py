@@ -118,7 +118,6 @@ class QuizGame:
                                         self.wrong()
                                     self.next_question = True
                                     break
-
-
+                                    
             pygame.display.flip()
         pygame.quit()
